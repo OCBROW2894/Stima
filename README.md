@@ -1,2 +1,2 @@
 # Stima
-IoT (Arduino
+IoT ( Arduino )
